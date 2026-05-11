@@ -1,3 +1,9 @@
+---
+layout: home
+title: Accueil
+---
+
+
 # Mohamed-Bilal Boukhaddi
 
 ## 🎓 Étudiant BTS SIO (SLAM)
