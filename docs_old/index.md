@@ -1,11 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-title: Accueil
----
-
 # Mohamed-Bilal Boukhaddi
 
 ## 🎓 Étudiant BTS SIO (SLAM)
@@ -43,8 +35,7 @@ Dynamique et sportif.
 ## 🎓 Formation
 
 ### 🎓 2025 - 2027 
-BTS SIO (SLAM)
-**Lycée Jean Monnet – Aurillac** 
+**BTS SIO (SLAM)**  
 
 ### 🎓 2024 - 2025
 Bac général  
