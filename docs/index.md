@@ -21,15 +21,13 @@ Dynamique et sportif.
 
 ## 💼 Expériences professionnelles
 
-### 🟢 2025 - Aujourd’hui  
-**Association Eclat – Aurillac**  
+### 🟢 2025 - **Association Eclat – Aurillac**  
 - Renfort à la cellule technique pendant le festival du théâtre de rue  
 
-### 🟢 2023 - 2024  
-**Secours Populaire – Aurillac**  
+### 🟢 2023 / 2024 - **Secours Populaire – Aurillac**  
 - Bénévolat pour obtenir une aide régionale pour le permis de conduire  
 
-### 🟢 Société Accent Jeunes – Aurillac  
+### 🟢 Depuis 2024 - **Société Accent Jeunes – Aurillac**
 - Participation à des chantiers éducatifs avec des éducateurs  
 
 ---
