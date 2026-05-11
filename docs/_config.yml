@@ -21,8 +21,8 @@
 title: "Développeur Full-Stack SLAM"
 email: bilalboukhaddi15@gmail.com
 description: "Portfolio étudiant BTS SIO"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cv-en-ligne"
+url: "https://Bilalux15.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
